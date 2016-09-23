@@ -15,7 +15,6 @@ public class Agenda {
     public Agenda(int any, int pag, int dia, int mes, boolean festiu, String horaInici, String horaFinalitzacio, String motiu) {
         this.any = any;
         this.pag=pag;
-        //fecha=new Pagina(dia, mes, festiu, horaInici, horaFinalitzacio, motiu);
         fecha=new ArrayList<>();
     }
 
