@@ -8,8 +8,8 @@ import java.util.ArrayList;
 public class Agenda {
 
     //Atributos
-    public int any, pag;
-    public ArrayList<Pagina> fecha;
+    private int any, pag;
+    private ArrayList<Pagina> fecha;
 
     //Constructor
     public Agenda(int any, int pag, int dia, int mes, boolean festiu, String horaInici, String horaFinalitzacio, String motiu) {

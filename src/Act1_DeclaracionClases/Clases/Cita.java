@@ -6,7 +6,7 @@ package Act1_DeclaracionClases.Clases;
 public class Cita {
 
     //Atributos
-    public String horaInici, horaFinalitzacio, motiu;
+    private String horaInici, horaFinalitzacio, motiu;
 
     //Constructor
     public Cita(String horaInici, String horaFinalitzacio, String motiu) {

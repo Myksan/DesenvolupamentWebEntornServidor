@@ -9,7 +9,7 @@ public class Menu {
 
 
     //Constructor
-    public Menu() {
+    public Menu(){
         //menu();//Elige la página o fecha en la que quieres escribir
     }
 

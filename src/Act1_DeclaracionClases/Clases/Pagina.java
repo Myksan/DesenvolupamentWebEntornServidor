@@ -8,9 +8,9 @@ import java.util.ArrayList;
 public class Pagina {
 
     //Atributos
-    public int dia, mes;
-    public boolean festiu=false;
-    public ArrayList <Cita> detalles;
+    private int dia, mes;
+    private boolean festiu=false;
+    private ArrayList <Cita> detalles;
 
     //Constructor
     public Pagina(int dia, int mes, boolean festiu, String horaInici, String horaFinalitzacio, String motiu) {
