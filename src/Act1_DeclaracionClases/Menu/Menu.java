@@ -38,13 +38,14 @@ public class Menu {
         }
     }
 
+    private void eleccionHoja() {
+
+    }
+
     private void eleccionFecha() {
 
     }
 
-    private void eleccionHoja() {
-
-    }
 
     private String leerString(){
         try{
